@@ -4,4 +4,5 @@ issuer = "GDMFRY7PWOU3ECBEP3VDV6ZTGAQ3D3DJFJMTH5BYIPGREPF6ZB2ZK3BM"
 display_decimals = 7
 name = "StellarNet Token"
 desc = "Utility token for the first onchain mobile service – fee discounts, rewards, governance"
+image = "https://stellarnetllc.github.io/stellarrrrrrrrrr.jpg"
 
